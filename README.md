@@ -1,5 +1,7 @@
 # Boosting Vaccination Rates
 
+![Language](https://img.shields.io/badge/Language-Python-blue) ![Framework](https://img.shields.io/badge/Framework-scikit--learn-orange) ![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange)
+
 ![flu vaccine bottle](https://github.com/snakeeyes021/flu-shot-learning/raw/main/pictures/2018FLUVaccine.jpeg)
 
 ## Overview and Business Understanding
